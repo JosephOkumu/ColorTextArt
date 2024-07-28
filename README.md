@@ -1,5 +1,5 @@
 
-# Project ASCII-Art Color
+# ColorTextArt
 
 This project takes input text, an optional color flag and letters to be colored from command-line arguments, and prints out its colorized ASCII-Art graphical representation in the terminal as provided for with the color flag and the letters to be colored. If the options are not provided, it prints the graphical art in the terminal's default color.
 
