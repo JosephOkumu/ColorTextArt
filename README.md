@@ -33,9 +33,8 @@ go run . --color="#00ff00" u "hello guys" # to colorize u in "hello guys"
 
 ## Authors
 
-- [@josotieno](https://learn.zone01kisumu.ke/git/josotieno/)
-- [@jwambugu](https://learn.zone01kisumu.ke/git/jwambugu)
-- [@kada](https://learn.zone01kisumu.ke/git/kada)
+- [@JosephOkumu](https://github.com/JosephOkumu)
+  
 
 
 ## License
